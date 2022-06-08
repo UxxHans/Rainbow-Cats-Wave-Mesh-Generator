@@ -3,6 +3,7 @@
  - Controls vertices, triangles, normals and uv. Made with @edmond-l
 ## Screenshot
 ![Image](https://github.com/UxxHans/Rainbow-Cats-Cube-Wave-Generator/blob/main/Pic/Animation02.gif)
-![Image](https://github.com/UxxHans/Rainbow-Cats-Cube-Wave-Generator/blob/main/Pic/Animation01.gif)
 ![Image](https://github.com/UxxHans/Rainbow-Cats-Cube-Wave-Generator/blob/main/Pic/Mesh01.jpg)
 ![Image](https://github.com/UxxHans/Rainbow-Cats-Cube-Wave-Generator/blob/main/Pic/Mesh02.jpg)
+## Previously
+![Image](https://github.com/UxxHans/Rainbow-Cats-Cube-Wave-Generator/blob/main/Pic/Animation01.gif)
