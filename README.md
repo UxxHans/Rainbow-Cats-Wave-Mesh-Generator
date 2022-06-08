@@ -1,5 +1,5 @@
 # Rainbow-Cats-Wave-Mesh-Generator
- - A simple wave generator using layers of perlin noises. 
+ - A very basic wave generator using layers of perlin noises. 
  - Controls Mesh Variables `Vertices`, `Triangles`, `Normals` and `UV`. Made with @edmond-l
 ## Screen Record
 ![Image](https://github.com/UxxHans/Rainbow-Cats-Cube-Wave-Generator/blob/main/Pic/Animation02.gif)
